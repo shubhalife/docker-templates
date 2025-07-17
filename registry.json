@@ -6,6 +6,7 @@
 	"author": "Your Team",
 	"url": "https://github.com/shubhalife/docker-templates.git",
 	"templates": [
+
 		{
 			"id": "mongo-mongo-express-app",
 			"name": "mongodb Application",
