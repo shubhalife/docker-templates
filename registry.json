@@ -7,16 +7,6 @@
 	"url": "https://github.com/shubhalife/docker-templates.git",
 	"templates": [
 		{
-			"id": "arcane-app",
-			"name": "Arcane Application",
-			"description": "Arcane application",
-			"version": "1.0.0",
-			"author": "DevOps Team",
-			"compose_url": "https://raw.githubusercontent.com/shubhalife/docker-templates/refs/heads/master/arcane.yml",
-			"tags": ["internal"],
-			"updated_at": "2025-07-17T10:00:00Z"
-		},
-		{
 			"id": "mongo-mongo-express-app",
 			"name": "mongodb Application",
 			"description": "mongodb application",
